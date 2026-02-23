@@ -13,6 +13,41 @@ const questions = [
     question: "Bahasa pengaturcaraan yang paling popular untuk web?",
     options: ["Python", "JavaScript", "C++"],
     answer: "JavaScript"
+  },
+  {
+    question: "Siapa pencipta Facebook?",
+    options: ["Elon Musk", "Mark Zuckerberg", "Bill Gates"],
+    answer: "Mark Zuckerberg"
+  },
+  {
+    question: "Planet ke berapa Bumi dalam sistem solar?",
+    options: ["3", "2", "4"],
+    answer: "3"
+  },
+  {
+    question: "Apakah unsur kimia untuk emas?",
+    options: ["Au", "Ag", "Fe"],
+    answer: "Au"
+  },
+  {
+    question: "Siapa penulis 'Harry Potter'?",
+    options: ["J.K. Rowling", "J.R.R. Tolkien", "George R.R. Martin"],
+    answer: "J.K. Rowling"
+  },
+  {
+    question: "Apakah bahasa rasmi Brazil?",
+    options: ["Spanish", "Portuguese", "English"],
+    answer: "Portuguese"
+  },
+  {
+    question: "Apakah ibukota Perancis?",
+    options: ["Paris", "Rome", "Berlin"],
+    answer: "Paris"
+  },
+  {
+    question: "Siapa atlet yang terkenal dengan 'Air Jordan'?",
+    options: ["LeBron James", "Michael Jordan", "Kobe Bryant"],
+    answer: "Michael Jordan"
   }
 ];
 
